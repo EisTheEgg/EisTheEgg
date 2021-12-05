@@ -1,4 +1,8 @@
-- 👋 Hi, I'm Eis. I've been programming for a year now, mainly focusing on Roblox games. I'm interested in a lot of other things though. 
-- 📣 You can reach me on Discord at Eis#4501
-- 🥇 Winner of RoJam 2020
-- 💻 Working on a game!
+Primarily focus on Roblox.
+
+Socials:
+🎮 Eis#7029
+🐦 @EisTheEgg
+🟥 EisTheEgg
+
+![image](https://user-images.githubusercontent.com/80625199/144741980-5cb4e5b0-343b-4401-ba37-16f428e798dc.png)
